@@ -58,7 +58,10 @@ I am a problem solver. Speed and efficiency are my backbones. Coordinating teams
     <p><code>DELALIFY LTD</code> • Self-employed</p>
     <p>Jun 2020 – Present</p>
     <p>Accra, Ghana</p>
-    <p>I founded Delalify to drive continuous delivery of software services to guide individual and business growth.</p>
+    <p>I founded Delalify to drive continuous delivery of software services to guide individual and business growth. We are building tools that would boost the entrepreneurial spirit in people–helping companies/startups and generally just anyone to create amazing online presences with no technical skills required. DELALIFY is coming soon.</p>
+    <p>
+My responsibilities here is to guide all the different teams involved to "initialize the awesome". I provide technical advice, business advice, and essentially anything the tech, operations, and other teams would need to build the vision of the business.</p>
+    <p>I brainstorm solutions and play around with ideas here. That's what makes this a fun experience for me.</p>
   </div>
 </div>
 
