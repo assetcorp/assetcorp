@@ -30,23 +30,6 @@ I am a problem solver. Speed and efficiency are my backbones. Coordinating teams
 
 --------
 
-<!-- ![Digital CIBT](https://cibtsrc.education/images/logo_512.png "Founder | Digital CIBT") -->
-
-<div style="display: flex; margin-bottom: 32px">
-  <div style="min-width: 100px">
-    <a href="https://cibtsrc.education/">
-    <img src="https://cibtsrc.education/images/logo_512.png" alt="Digital CIBT" title="Founder – Digital CIBT" width="64" height="64" />
-    </a>
-  </div>
-  <div>
-    <h3>Founder</h3>
-    <p><code>Digital CIBT</code> • Part Time</p>
-    <p>Feb 2021 – Present</p>
-    <p>Accra, Ghana</p>
-    <p>I founded this group when I was the President of the student’s representative council of the CIBT University College. This was to help the school amass digital tools to help its students to be successful, as well as building processes that would lead to smarter interoperability between education, job seeking, and technology—linking students to top organizations in industries of their choice.</p>
-  </div>
-</div>
-
 <div style="display: flex; margin-bottom: 32px">
   <div style="min-width: 100px">
     <a href="https://delalify.com/">
@@ -110,6 +93,7 @@ My responsibilities here is to guide all the different teams involved to "initia
     <p>Accra, Ghana</p>
     <p>As the chairperson of the Interim Management Committee of the Students' representative council, I worked to meet the demands of the students at a time, where the school was in educational crisis due to the COVID-19 pandemic. I quickly organized the students and was a liaison between the student body and the school administration. I created a database to handle SRC specific students' records and assisted to create avenues for students to learn online.</p>
     <p>Working as president, I ensured that students welfare is taken seriously–while leading the student body with innovative projects, problem-solving prospects and organizing events to assist students in becoming successful graduates.</p>
+    <p>I founded a group called Digital CIBT when during this role. This was to help the school amass digital tools to help its students to be successful, as well as building processes that would lead to smarter interoperability between education, job seeking, and technology—linking students to top organizations in industries of their choice.</p>
   </div>
 </div>
 
