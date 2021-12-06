@@ -139,8 +139,7 @@ My responsibilities here is to guide all the different teams involved to "initia
     <p><code>Ellisons Technologies</code> • Contract</p>
     <p>Feb 2019 – Apr 2020 • 1 year 3 months</p>
     <p>Accra, Ghana</p>
-    <p>Mostly maintained existing apps and created 2 new mobile apps in 6 months.</p>
-    <p>I built systems for the company to help them operate at ease. These systems were used to manage operations, finances, and HR tasks for the company. The company does not like outsourcing external software tools, thus, as much as possible, I was responsible for creating internal services and systems that were useful for the smooth running of the company's operations.</p>
+    <p>I was more concerned about the implementation and deployment of software here. That was basically what I did. I devoted myself to ensuring that the best work is done and only quality code is deployed to production.</p>
   </div>
 </div>
 
