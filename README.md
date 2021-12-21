@@ -186,20 +186,34 @@ My responsibilities here is to guide all the different teams involved to "initia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assetcorp&layout=compact&border_color=1976d2)](https://github.com/assetcorp)
 
+## Education
 
+--------
 
+<div style="display: flex; margin-bottom: 32px">
+  <div style="min-width: 100px">
+    <a href="https://www.uel.ac.uk/">
+    <img src="https://media-exp1.licdn.com/dms/image/C560BAQGjnaYlspT2Ew/company-logo_100_100/0/1580981750440?e=1648080000&v=beta&t=-lEVEDqr-BE0dRroNEcdAYhJ6qXA_d48Vomicb02rbc" alt="University of East London" title="Founder – University of East London" width="64" height="64" />
+    </a>
+  </div>
+  <div>
+    <h3>Master of Science – Computer Science</h3>
+    <p><code>University of East London</code></p>
+    <p>2021 – Present</p>
+    <p>London, United Kingdom</p>
+  </div>
+</div>
 
-<!--
-**assetcorp/assetcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; margin-bottom: 32px">
+  <div style="min-width: 100px">
+    <a href="https://cibt.edu.gh/">
+    <img src="https://cibtsrc.education/images/logo_512.png" alt="CIBT University College" title="Founder – CIBT University College" width="64" height="64" />
+    </a>
+  </div>
+  <div>
+    <h3>Bachelor of Science – Information Technology</h3>
+    <p><code>CIBT University College</code></p>
+    <p>2017 – 2021</p>
+    <p>Accra, Ghana</p>
+  </div>
+</div>
