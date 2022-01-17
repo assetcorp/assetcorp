@@ -72,7 +72,7 @@ My responsibilities here is to guide all the different teams involved to "initia
   <div>
     <h3>Lead Software Engineer</h3>
     <p><code>MindRight</code> • Full-time</p>
-    <p>Aug 2020 – Present</p>
+    <p>Aug 2020 – Jan 2022 • 1 year 6 months</p>
     <!-- <p>Accra, Ghana</p> -->
     <p>Building automation processes, integrating Artificial Intelligence and Machine Learning models into software algorithms to guide licensed health coaches to provide radically accessible and inclusive mental health care to communities of colour and low-income families.</p>
     <p>I worked on improving an already existing system that the company uses to operate. This is a system for licensed health coaches to provide accessible and reliable mental health coaching to people. I built new services to improve upon the system and integrated machine learning models to help the coaches to make sense out of the data provided by the users who are being served.</p>
