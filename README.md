@@ -10,19 +10,13 @@
 - 🔭 I am currently working on something interesting.
 - 🌱 I am learning so many things.
 - 👯 I am looking to collaborate on solving new challenges.
-- 💬 Ask me about anything.
 - 📫 Reach out to me via: [Linkedin](https://linkedin.com/in/sondelali) | [Twitter](https://twitter.com/sondelali)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: 🙃
 
+I have 8 years of production experience in software development and much experience managing web applications. I am a full-stack engineer with much proficiency in NodeJS, React, TypeScript, Angular, Python, MySQL, PostgreSQL, MongoDB, GCP, AWS, Docker, and Kubernetes, among others. I am also very proficient with mobile development in React Native.
 
-I have had over 7 years of production experience in software development with a core focus on managing web applications. I am a full-stack engineer with much proficiency in NodeJS, React, TypeScript, Angular, Python, MySQL, PostgreSQL, MongoDB, GCP, AWS, Docker, Kubernetes, among others.
-
-I have held leadership roles in many companies, managing teams of various sizes. I can easily collaborate in cross-functional teams with deep knowledge in the design, management, and deployment of software products and services. I have excellent traits in technical project management, software product management, and DevOps engineering.
-
-When you look around you, this world is not perfect. I live to help make things right. I am IoT enthusiastic thus, I love working on embedded systems. Building software from grounds-up is easily doable for me. I look for inspirational ideas and improve upon them.
-
-I love Mathematics (Calculus, Discreet Maths, Algebra) and Physics (Nuclear Physics, Dynamics, and Electronics).
+I have held leadership roles in startup companies, managing teams of various sizes. I can easily collaborate in cross-functional teams with deep knowledge of software product design, management, and deployment. I have excellent technical project management and DevOps traits.
 
 I am a problem solver. Speed and efficiency are my backbones. Coordinating teams is something I love doing, and that love alone is mostly my solution.
 
@@ -31,21 +25,6 @@ I am a problem solver. Speed and efficiency are my backbones. Coordinating teams
 --------
 
 <!-- ![Digital CIBT](https://cibtsrc.education/images/logo_512.png "Founder | Digital CIBT") -->
-
-<div style="display: flex; margin-bottom: 32px">
-  <div style="min-width: 100px">
-    <a href="https://cibtsrc.education/">
-    <img src="https://cibtsrc.education/images/logo_512.png" alt="Digital CIBT" title="Founder – Digital CIBT" width="64" height="64" />
-    </a>
-  </div>
-  <div>
-    <h3>Founder</h3>
-    <p><code>Digital CIBT</code> • Part Time</p>
-    <p>Feb 2021 – Present</p>
-    <p>Accra, Ghana</p>
-    <p>I founded this group when I was the President of the student’s representative council of the CIBT University College. This was to help the school amass digital tools to help its students to be successful, as well as building processes that would lead to smarter interoperability between education, job seeking, and technology—linking students to top organizations in industries of their choice.</p>
-  </div>
-</div>
 
 <div style="display: flex; margin-bottom: 32px">
   <div style="min-width: 100px">
@@ -97,12 +76,12 @@ I am a problem solver. Speed and efficiency are my backbones. Coordinating teams
 <div style="display: flex; margin-bottom: 32px">
   <div style="min-width: 100px">
     <a href="https://cibtsrc.education/">
-    <img src="https://cibtsrc.education/images/logo_512.png" alt="CATHOLIC UNIVERSITY COLLEGE (STUDENT'S REPRESENTATIVE COUNCIL)" title="President/Chairperson – CATHOLIC UNIVERSITY COLLEGE (STUDENT'S REPRESENTATIVE COUNCIL)" width="64" height="64" />
+    <img src="https://cibtsrc.education/images/logo_512.png" alt="CIBT UNIVERSITY COLLEGE (STUDENT'S REPRESENTATIVE COUNCIL)" title="President/Chairperson – CIBT UNIVERSITY COLLEGE (STUDENT'S REPRESENTATIVE COUNCIL)" width="64" height="64" />
     </a>
   </div>
   <div>
     <h3>President/Chairperson</h3>
-    <p><code>CATHOLIC UNIVERSITY COLLEGE (STUDENT'S REPRESENTATIVE COUNCIL)</code> • Part-time</p>
+    <p><code>CIBT UNIVERSITY COLLEGE (STUDENT'S REPRESENTATIVE COUNCIL)</code> • Part-time</p>
     <p>Jul 2020 – Jul 2021 • 1 year</p>
     <p>Accra, Ghana</p>
     <p>As the chairperson of the Interim Management Committee of the Students' representative council, I worked to meet the demands of the students at a time, where the school was in educational crisis due to the COVID-19 pandemic. I quickly organized the students and was a liaison between the student body and the school administration. I created a database to handle SRC specific students' records and assisted to create avenues for students to learn online.</p>
@@ -199,21 +178,3 @@ I am a problem solver. Speed and efficiency are my backbones. Coordinating teams
 --------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assetcorp&layout=compact&border_color=1976d2)](https://github.com/assetcorp)
-
-
-
-
-<!--
-**assetcorp/assetcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
