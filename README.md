@@ -117,12 +117,6 @@
 
 [![Delali's GitHub stats](https://github-readme-stats.vercel.app/api?username=assetcorp&count_private=true&show_icons=true&include_all_commits=true&border_color=1976d2)](https://github.com/assetcorp/)
 
-## GitHub Programming Language Stats
-
---------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assetcorp&layout=compact&border_color=1976d2)](https://github.com/assetcorp)
-
 ## Education
 
 --------
