@@ -111,12 +111,6 @@
   </div>
 </div>
 
-## GitHub Stats
-
---------
-
-[![Delali's GitHub stats](https://github-readme-stats.vercel.app/api?username=assetcorp&count_private=true&show_icons=true&include_all_commits=true&border_color=1976d2)](https://github.com/assetcorp/)
-
 ## Education
 
 --------
