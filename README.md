@@ -9,7 +9,7 @@
 
 - Innovating cross-functional teams in Software Engineering, Business Development, Machine Learning, and Financial Technology.
 - More than 10 years of production experience in tech.
-- Led engineering in various startup companies to maximise revenew.
+- Led engineering in various startup companies to maximise revenue.
 - Founded a tech startup that provides Cloud and VAS services leading to exponential growth of many businesses.
 - Reach out to me via: [Linkedin](https://linkedin.com/in/sondelali) | [Twitter](https://twitter.com/sondelali)
 
