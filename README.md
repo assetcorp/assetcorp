@@ -44,7 +44,7 @@
       <ul>
         <li>Made the entire application 5 times faster by optimising database queries and implementing caching and load balancing.</li>
         <li>Led the development of efficient software systems that revolutionised mental health care access, producing a significant increase in revenue for the company.</li>
-        <li>Embarked on the project as a technical manager, by avoiding repetitive tasks leading to significant cost savings.</li>
+        <li>Embarked on the project as a technical manager by avoiding repetitive tasks leading to significant cost savings.</li>
         <li>Received positive feedback from stakeholders and end-users for delivering an innovative, high-performing product that met business objectives and positively impacted society.</li>
       </ul>
     </p>
@@ -59,9 +59,9 @@
     <p>
       <ul>
         <li>Resolved all initial technical issues and implemented well-defined processes leading to significantly reduced technical debt.</li>
-        <li>Directed a microservice architecture making it easy to roll out new services.</li>
+        <li>Directed a microservice architecture, making it easy to roll out new services.</li>
         <li>Diversified the company's product line into areas with less attention, leading to increased revenue.</li>
-        <li>Led the creation of new corporate websites, resulting in a high-performing, aesthetically pleasing and user-friendly products.</li>
+        <li>Led the creation of new corporate websites, resulting in high-performing, aesthetically pleasing and user-friendly products.</li>
       </ul>
     </p>
   </div>
@@ -75,7 +75,7 @@
     <p>
       <ul>
         <li>Utilised a serverless architecture to reduce cost by 40% while maintaining performant web and mobile applications.</li>
-        <li>Maintained a strong focus on high-value features that satisfied clients and resulted in an increase in revenue.</li>
+        <li>Maintained a strong focus on high-value features that satisfied clients and increased revenue.</li>
         <li>Focused on optimising project workflows using project management tools to improve efficiency and save time, resulting in faster delivery of quality features.</li>
         <li>Continuously enhanced the product by staying up-to-date with industry trends and innovations.</li>
       </ul>
@@ -131,7 +131,7 @@
 <div style="display: flex; margin-bottom: 32px">
   <div>
     <h3>Bachelor of Science – Information Technology</h3>
-    <p><code>CIBT University College</code> • Graduated with 3 awards, including best student in Information Technology</p>
+    <p><code>CIBT University College</code> • Graduated with 3 awards, including the best student in Information Technology</p>
     <p>2017 – 2021</p>
     <p>Accra, Ghana</p>
   </div>
