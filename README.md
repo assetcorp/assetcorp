@@ -1,5 +1,5 @@
 
-# Delali Azumah
+# Delali
 
 `I solve problems. I make systems better.`
 
