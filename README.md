@@ -1,17 +1,17 @@
 
 # Delali
 
-`I solve problems. I make systems better.`
+`I solve problems and make systems better.`
 
 ## Introduction
 
 --------
 
 - Innovating cross-functional teams in Software Engineering, Business Development, Machine Learning, and Financial Technology.
-- More than 10 years of production experience in tech.
+- More than 10 years of tech production experience.
 - Led engineering in various startup companies to maximise revenue.
 - Founded a tech startup that provides Cloud and VAS services leading to exponential growth of many businesses.
-- Reach out to me via: [Linkedin](https://linkedin.com/in/sondelali) | [Twitter](https://twitter.com/sondelali)
+- Reach out to me via: [Website](https://sondelali.com) | [Linkedin](https://linkedin.com/in/sondelali) | [Twitter](https://twitter.com/sondelali)
 
 ## Experience
 
@@ -20,8 +20,7 @@
 <div style="display: flex; margin-bottom: 32px">
   <div>
     <h3>Senior Software Engineer</h3>
-    <p><code>myNFT</code> • Full-time</p>
-    <p>2021 – 2023</p>
+    <p><code>myNFT</code> • Contract</p>
     <p>London, England, United Kingdom • Remote</p>
     <p>
       <ul>
@@ -37,8 +36,7 @@
 <div style="display: flex; margin-bottom: 32px">
   <div>
     <h3>Lead Software Engineer</h3>
-    <p><code>MindRight</code> • Full-time</p>
-    <p>2020 – 2022</p>
+    <p><code>MindRight</code> • Contract</p>
     <p>Building automation processes, integrating Artificial Intelligence and Machine Learning models into software algorithms to guide licensed health coaches to provide radically accessible and inclusive mental health care to communities of colour and low-income families.</p>
     <p>
       <ul>
@@ -55,7 +53,6 @@
   <div>
     <h3>Senior Software Engineer</h3>
     <p><code>Holspi Engineering</code> • Full-time</p>
-    <p>2019 – 2020</p>
     <p>
       <ul>
         <li>Resolved all initial technical issues and implemented well-defined processes leading to significantly reduced technical debt.</li>
@@ -71,7 +68,6 @@
   <div>
     <h3>Software Applications Engineer</h3>
     <p><code>HandyTradie</code> • Contract</p>
-    <p>2019 – 2020</p>
     <p>
       <ul>
         <li>Utilised a serverless architecture to reduce cost by 40% while maintaining performant web and mobile applications.</li>
@@ -87,7 +83,6 @@
   <div>
     <h3>Application Developer</h3>
     <p><code>Xavier Media Group</code> • Full-time</p>
-    <p>2018 – 2019</p>
     <p>
       <ul>
         <li>Enhanced the performance and reliability of existing applications, ensuring optimal user experience.</li>
@@ -102,8 +97,7 @@
 <div style="display: flex; margin-bottom: 32px">
   <div>
     <h3>Software Developer</h3>
-    <p><code>Independent contractor</code> • Self-employed</p>
-    <p>2013 – 2019</p>
+    <p><code>Independent contractor</code> • Contracts</p>
     <p>
       <ul>
         <li>Leveraged creativity, innovation, and technical expertise to deliver solutions that exceeded client expectations and provided maximum value.</li>
@@ -123,7 +117,7 @@
   <div>
     <h3>Master of Science – Computer Science</h3>
     <p><code>University of East London</code></p>
-    <p>2021 – 2023</p>
+    <p>2021 – 2024</p>
     <p>London, United Kingdom</p>
   </div>
 </div>
